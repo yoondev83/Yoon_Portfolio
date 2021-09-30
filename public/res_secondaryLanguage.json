@@ -1,0 +1,107 @@
+{
+    "basic_info": {
+      "description_header": "안녕하세요! 장윤석 입니다",
+      "description": "범죄 연구 분야에 관심있어 석사까지 공부하였습니다. 최근에 IT 분야에서 일해보고 싶다는 생각이들어 지금 이 순간까지 열심히 공부하며 달려왔습니다. 코딩의 가장 큰 매력은 제가 생각하는 걸 코드로 표현할 수 있다라는 겁니다. 제가 가진 프로그래밍 스킬로 범죄 연구나 예방에 기여를 하고 싶습니다. 하지만 이 분야 뿐만 아니라 다른 분야에서도 제 능력으로 기여할 수 있는게 있다면 기꺼이 해보고 싶습니다!",
+      "section_name": {
+        "about": "나에 대해서",
+        "projects": "프로젝트",
+        "skills": "스킬",
+        "experience": "경험"
+      }
+    },
+    "projects": [
+      {
+        "title": "Seoul Crime Map (개인)",
+        "startDate": "2021-08 진행중",
+        "description": "서울에 대해 잘 모르는 외국인들에게 서울은 얼마나 안전한가에 관해 객관적이고 시각화된 데이터를 제공",
+        "images": [
+          "images/portfolio/seoul-crime-map/p1.jpg",
+          "images/portfolio/seoul-crime-map/main.png",
+          "images/portfolio/seoul-crime-map/datamap.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "TypMaterial-uieScript"
+          },
+          {
+            "name": "React-Chart-js"
+          },
+          {
+            "name": "Leaflet"
+          }
+        ]
+      },
+      {
+        "title": "REBORN (팀)",
+        "startDate": "2021-08 진행중",
+        "description": "블록체인을 활용한 중고 골프용품 거래 쇼핑몰. 이용자들은 단순 물건 구입부터 직접 판매 등록을하여 쇼핑몰로부터 보상으로 토큰을 받아 물건 구매에 활용할 수 있다. 팀에서는 유일한 프런트 담당으로 참여하였습니다.",
+        "images": [
+       
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "TypMaterial-uieScript"
+          },
+          {
+            "name": "Solidity"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "서울사이버대학교",
+        "title": "컴퓨터공학",
+        "years": "2021.05 - 2023.02(졸업예정)",
+        "mainTech": [
+          "교육"
+        ],
+        "technologies": [
+          "자바",
+          "자바스크립트",
+          "프로젝트관리론"
+        ]
+      },
+      {
+        "company": "블록체인 엔지니어 양성과정",
+        "title": "",
+        "years": "2021.05 - 2021.11",
+        "mainTech": [
+          "교육"
+        ],
+        "technologies": [
+          "자바",
+          "도커",
+          "솔리디티",
+          "이더리움"
+        ]
+      },
+      {
+        "company": "John Jay College of Criminal Justice (CUNY), 뉴욕",
+        "title": "International Crime and Justice 석사",
+        "years": "2018.08 - 2020.05",
+        "mainTech": [
+          "교육"
+        ],
+        "technologies": [
+          "연구방법론",
+          "사이버범죄",
+          "사이버수사",
+          "테러리즘",
+          "범죄학"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,113 @@
+{
+    "basic_info": {
+      "name": "Yoonsuk Chang",
+      "titles": [ "Front-end Developer", "Crime Researcher", "Hedgehog Lover" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/yoondev83/Yoon_Portfolio",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/yoonsuk-chang-577b64125/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "yoon_cartoon.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "75"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "jQuery",
+          "class": "devicon-jquery-plain",
+          "level": "65"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "Material-ui",
+          "class": "devicon-materialui-plain",
+          "level": "80"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "d3.js",
+          "class": "devicon-d3js-plain",
+          "level": "85"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "60"
+        },
+        {
+          "name": "Express.js",
+          "class": "devicon-express-original",
+          "level": "60"
+        },
+        {
+          "name": "Mongoose",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        },
+        {
+          "name": "Passport.js",
+          "class": "",
+          "level": "60"
+        },
+        {
+          "name": "Solidity",
+          "class": "",
+          "level": "60"
+        },
+        {
+          "name": "Leaflet.js",
+          "class": "",
+          "level": "60"
+        },
+        {
+          "name": "Chart.js",
+          "class": "",
+          "level": "60"
+        }
+      ]
+    }
+  }
