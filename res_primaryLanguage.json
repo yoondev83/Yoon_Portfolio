@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "Hello! I'm Yoonsuk Chang from South Korea. I recently changed my life path from criminal justice to computer science so that I can not only code my thoughts but also be able to work everywhere in the world! For those who are reading this message, I hope that we would work together in the near future! :) If you are interested in me, please check below!",
+      "description": "Hello! I'm Yoonsuk Chang from South Korea. I recently changed my life path from criminal justice to computer science so that I can not only code my thoughts but also be able to work everywhere in the world! For those who are reading this message, I hope that we would work together in the near future! :) If you are interested in me, please email me (yoondev83@gmail.com) or check below!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -42,7 +42,7 @@
         "startDate": "08/2021 (in progress)",
         "description": "It's a blockchain-based project for a used-golf-equipmen platform where you can buy or sell used golf stuff. When users sell their stuff to the platform, they get tokens as a reward, which they can use for buying stuff on the platform. I participated in this project as a front-end developer.",
         "images": [
-        
+          "images/portfolio/reborn/p1.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
