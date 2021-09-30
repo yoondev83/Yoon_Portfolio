@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Yoon_Portfolio/static/css/main.db520bf6.chunk.css",
+    "main.js": "/Yoon_Portfolio/static/js/main.783fbef7.chunk.js",
+    "main.js.map": "/Yoon_Portfolio/static/js/main.783fbef7.chunk.js.map",
+    "runtime-main.js": "/Yoon_Portfolio/static/js/runtime-main.e0c8455b.js",
+    "runtime-main.js.map": "/Yoon_Portfolio/static/js/runtime-main.e0c8455b.js.map",
+    "static/css/2.d64471e2.chunk.css": "/Yoon_Portfolio/static/css/2.d64471e2.chunk.css",
+    "static/js/2.764ec5c7.chunk.js": "/Yoon_Portfolio/static/js/2.764ec5c7.chunk.js",
+    "static/js/2.764ec5c7.chunk.js.map": "/Yoon_Portfolio/static/js/2.764ec5c7.chunk.js.map",
+    "index.html": "/Yoon_Portfolio/index.html",
+    "precache-manifest.56f2a19074f2a323f21f8df4500df193.js": "/Yoon_Portfolio/precache-manifest.56f2a19074f2a323f21f8df4500df193.js",
+    "service-worker.js": "/Yoon_Portfolio/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/Yoon_Portfolio/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db520bf6.chunk.css.map": "/Yoon_Portfolio/static/css/main.db520bf6.chunk.css.map",
+    "static/js/2.764ec5c7.chunk.js.LICENSE.txt": "/Yoon_Portfolio/static/js/2.764ec5c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0c8455b.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.764ec5c7.chunk.js",
+    "static/css/main.db520bf6.chunk.css",
+    "static/js/main.783fbef7.chunk.js"
+  ]
+}

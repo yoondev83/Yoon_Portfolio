@@ -1,0 +1,107 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "Hello! I'm Yoonsuk Chang from South Korea. I recently changed my life path from criminal justice to computer science so that I can not only code my thoughts but also be able to work everywhere in the world! For those who are reading this message, I hope that we would work together in the near future! :) If you are interested in me, please check below!",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Seoul Crime Map (Single)",
+        "startDate": "08/2021 (in progress)",
+        "description": "This project is for non-Koreans who are not familiar with South Korea, especially Seoul, to show visualized data so that they would know how Seoul is compared to other cities",
+        "images": [
+          "images/portfolio/seoul-crime-map/p1.jpg",
+          "images/portfolio/seoul-crime-map/main.png",
+          "images/portfolio/seoul-crime-map/datamap.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "TypMaterial-uieScript"
+          },
+          {
+            "name": "React-Chart-js"
+          },
+          {
+            "name": "Leaflet"
+          }
+        ]
+      },
+      {
+        "title": "REBORN (Team)",
+        "startDate": "08/2021 (in progress)",
+        "description": "It's a blockchain-based project for a used-golf-equipmen platform where you can buy or sell used golf stuff. When users sell their stuff to the platform, they get tokens as a reward, which they can use for buying stuff on the platform. I participated in this project as a front-end developer.",
+        "images": [
+        
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "TypMaterial-uieScript"
+          },
+          {
+            "name": "Solidity"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Seoul Cyber University, Seoul",
+        "title": "Bachelor's Degree in Computer Science",
+        "years": "2021.08 - 2023.02 (Expected)",
+        "mainTech": [
+          "Education"
+        ],
+        "technologies": [
+          "Java",
+          "Javascript",
+          "Project Management"
+        ]
+      },
+      {
+        "company": "Blockchain Engineer Training Program",
+        "title": "Boot Camp",
+        "years": "2021.05 - 2021.11 (Expected)",
+        "mainTech": [
+          "Education"
+        ],
+        "technologies": [
+          "Java",
+          "Docker",
+          "Solidity",
+          "Ethereum"
+        ]
+      },
+      {
+        "company": "John Jay College of Criminal Justice (CUNY), New York",
+        "title": "Master of Arts in International Crime and Justice",
+        "years": "08.2018 - 05.2020",
+        "mainTech": [
+          "Education"
+        ],
+        "technologies": [
+          "Research Method",
+          "Cybercrime",
+          "Cyber Investigation",
+          "Terrorism",
+          "Criminology"
+        ]
+      }
+    ]
+  }
