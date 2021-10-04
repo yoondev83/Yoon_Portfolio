@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "안녕하세요! 장윤석 입니다",
-      "description": "범죄 연구 분야에 관심있어 석사까지 공부하였습니다. 최근에 IT 분야에서 일해보고 싶다는 생각이들어 지금 이 순간까지 열심히 공부하며 달려왔습니다. 코딩의 가장 큰 매력은 제가 생각하는 걸 코드로 표현할 수 있다라는 겁니다. 제가 가진 프로그래밍 스킬로 범죄 연구나 예방에 기여를 하고 싶습니다. 하지만 이 분야 뿐만 아니라 다른 분야에서도 제 능력으로 기여할 수 있는게 있다면 기꺼이 해보고 싶습니다!",
+      "description": "대학원 시절 사이버범죄와 사이버수사 수업을 듣고나서 IT 분야에 큰 관심을 갖게 되었습니다. 관심이 생겨 무작정 자바 책을 구입해서 코딩 연습을 해보았습니다. 코딩을 해보니 제가 생각하는 걸 코드로 표현할 수 있다는 점에 큰 매력을 느꼈습니다. 아직까지는 생각하는걸 그대로 구현하지는 못하지만 구현하지만, 결과물들을 시각적으로 표현하여 다른 사람들에게 보여주는것에 성취감을 느끼고 있습니다. 따라서, 시각적인 요소를 중요시하는 프론트엔드에 자연스럽게 관심이 갖게 되었고, 프론트엔드 개발자로써 커리어를 쌓자라는 목표를 가지게 되었습니다. 저에게 연락할 수 있는 방법은 이메일 (yoondev83@gmail.com)과 페이지 하단의 링크드인이 있습니다. ",
       "section_name": {
         "about": "나에 대해서",
         "projects": "프로젝트",
@@ -13,7 +13,7 @@
       {
         "title": "Seoul Crime Map (개인)",
         "startDate": "2021-08 진행중",
-        "description": "서울에 대해 잘 모르는 외국인들에게 서울은 얼마나 안전한가에 관해 객관적이고 시각화된 데이터를 제공",
+        "description": "React와 React Material-ui를 활용하여 프론트 구현, Node.js, Express.js, Mongoose를 활용하여 백엔드를 구현하였습니다. 데이터 시각화를 위해서 Leaflet.js과 Chart.js를 활용하였습니다. 이 프로젝트는 서울에 대해 잘 모르는 외국인들에게 서울은 얼마나 안전한가에 관해 객관적이고 시각화된 데이터를 간단하게 확인할 수 있는 서비스를 제공하기위해 만들었습니다. 데이터는 가입없이 확인할 수 있게 하였고, 회원가입 및 로그인을 통해 간단한 게시글을 남길 수 있는 게시판을 구현하였습니다.",
         "images": [
           "images/portfolio/seoul-crime-map/p1.jpg",
           "images/portfolio/seoul-crime-map/main.png",
@@ -27,7 +27,7 @@
           },
           {
             "class": "devicon-materialui-plain",
-            "name": "TypMaterial-uieScript"
+            "name": "Material-ui"
           },
           {
             "name": "React-Chart-js"
@@ -40,9 +40,9 @@
       {
         "title": "REBORN (팀)",
         "startDate": "2021-08 진행중",
-        "description": "블록체인을 활용한 중고 골프용품 거래 쇼핑몰. 이용자들은 단순 물건 구입부터 직접 판매 등록을하여 쇼핑몰로부터 보상으로 토큰을 받아 물건 구매에 활용할 수 있다. 팀에서는 유일한 프런트 담당으로 참여하였습니다.",
+        "description": "React와 React Material-ui를 활용하여 프론트엔드 담당을 하였습니다. 이 프로젝트는 블록체인을 활용한 중고 골프용품 거래 쇼핑몰. 이용자들은 단순 물건 구입부터 직접 판매 등록을하여 쇼핑몰로부터 보상으로 토큰을 받아 물건 구매에 활용할 수 있습니다.",
         "images": [
-       
+          "images/portfolio/reborn/p1.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -52,7 +52,7 @@
           },
           {
             "class": "devicon-materialui-plain",
-            "name": "TypMaterial-uieScript"
+            "name": "Material-ui"
           },
           {
             "name": "Solidity"
