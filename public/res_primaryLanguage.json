@@ -12,14 +12,14 @@
     "projects": [
       {
         "title": "Seoul Crime Map (Single)",
-        "startDate": "08/2021 (in progress)",
+        "startDate": "08/2021 - 10/2021",
         "description": "React and React Material-ui are used for the front-end part, and Node.js, Express.js, Mongoose are used for the back-end part. This project is for non-Koreans who are not familiar with South Korea, especially Seoul, to show visualized data so that they would know how Seoul is in a simple way.",
         "images": [
           "images/portfolio/seoul-crime-map/p1.jpg",
           "images/portfolio/seoul-crime-map/main.png",
           "images/portfolio/seoul-crime-map/datamap.png"
         ],
-        "url": "",
+        "url": "https://github.com/yoondev83/YoonSeoulCrimeFront",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -39,12 +39,19 @@
       },
       {
         "title": "REBORN (Team)",
-        "startDate": "08/2021 (in progress)",
-        "description": "I participated in this project as a front-end developer using React and React Material-ui. It's a blockchain-based project for a used-golf-equipmen platform where you can buy or sell used golf stuff. When users sell their stuff to the platform, they get tokens as a reward, which they can use for buying stuff on the platform.",
+        "startDate": "08/2021 - 10/2021",
+        "description": "I participated in this project as a front-end developer using React, Redux, React Material-ui, and Bootstrap. It's a blockchain-based project for a used-golf-equipment online shopping mall where you can buy or sell used golf stuff with tokens. When users sell their stuff to REBORN, they receive REBORN tokens as reward, which they can also use for buying on REBORN.",
         "images": [
-          "images/portfolio/reborn/p1.jpg"
+          "images/portfolio/reborn/p1.jpg",
+          "images/portfolio/reborn/p2.PNG",
+          "images/portfolio/reborn/p3.PNG",
+          "images/portfolio/reborn/p4.PNG",
+          "images/portfolio/reborn/p5.PNG",
+          "images/portfolio/reborn/p6.PNG",
+          "images/portfolio/reborn/p7.PNG",
+          "images/portfolio/reborn/p8.PNG"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/28-5/Front-end",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,7 +62,8 @@
             "name": "Material-ui"
           },
           {
-            "name": "Solidity"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       }
