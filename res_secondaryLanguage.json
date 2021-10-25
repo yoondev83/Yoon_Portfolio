@@ -12,14 +12,14 @@
     "projects": [
       {
         "title": "Seoul Crime Map (개인)",
-        "startDate": "2021-08 진행중",
+        "startDate": "2021-08 - 2021-10",
         "description": "React와 React Material-ui를 활용하여 프론트 구현, Node.js, Express.js, Mongoose를 활용하여 백엔드를 구현하였습니다. 데이터 시각화를 위해서 Leaflet.js과 Chart.js를 활용하였습니다. 이 프로젝트는 서울에 대해 잘 모르는 외국인들에게 서울은 얼마나 안전한가에 관해 객관적이고 시각화된 데이터를 간단하게 확인할 수 있는 서비스를 제공하기위해 만들었습니다. 데이터는 가입없이 확인할 수 있게 하였고, 회원가입 및 로그인을 통해 간단한 게시글을 남길 수 있는 게시판을 구현하였습니다.",
         "images": [
           "images/portfolio/seoul-crime-map/p1.jpg",
           "images/portfolio/seoul-crime-map/main.png",
           "images/portfolio/seoul-crime-map/datamap.png"
         ],
-        "url": "",
+        "url": "https://github.com/yoondev83/YoonSeoulCrimeFront",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -39,12 +39,19 @@
       },
       {
         "title": "REBORN (팀)",
-        "startDate": "2021-08 진행중",
-        "description": "React와 React Material-ui를 활용하여 프론트엔드 담당을 하였습니다. 이 프로젝트는 블록체인을 활용한 중고 골프용품 거래 쇼핑몰. 이용자들은 단순 물건 구입부터 직접 판매 등록을하여 쇼핑몰로부터 보상으로 토큰을 받아 물건 구매에 활용할 수 있습니다.",
+        "startDate": "2021-08 - 2021-10",
+        "description": "React, Redux, React Material-ui 및 Bootstrap을 활용하여 프론트엔드 개발을 하였습니다. 이 프로젝트는 블록체인을 활용한 중고 골프용품 거래 쇼핑몰 (이하 '리본'). 이용자들은 리본에 중고 골프 용품 판매 신청을 할 수 있으며 리본은 심사를 통해 매입 결정을 합니다. 매입 결정을 할 경우 판매 신청을 한 유저에게 현금과 토큰이 지급됩니다. 이용자들은 쇼핑몰로부터 받은 토큰으로 물건 구매에 활용할 수 있습니다.",
         "images": [
-          "images/portfolio/reborn/p1.jpg"
+          "images/portfolio/reborn/p1.jpg",
+          "images/portfolio/reborn/p2.PNG",
+          "images/portfolio/reborn/p3.PNG",
+          "images/portfolio/reborn/p4.PNG",
+          "images/portfolio/reborn/p5.PNG",
+          "images/portfolio/reborn/p6.PNG",
+          "images/portfolio/reborn/p7.PNG",
+          "images/portfolio/reborn/p8.PNG"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/28-5/Front-end",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,7 +62,8 @@
             "name": "Material-ui"
           },
           {
-            "name": "Solidity"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       }
