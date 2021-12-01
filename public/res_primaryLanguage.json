@@ -11,7 +11,7 @@
     },
     "projects": [
       {
-        "title": "Seoul Crime Map (Single)",
+        "title": "Seoul Crime Map (Sole)",
         "startDate": "08/2021 - 10/2021",
         "description": "React and React Material-ui are used for the front-end part, and Node.js, Express.js, Mongoose are used for the back-end part. This project is for non-Koreans who are not familiar with South Korea, especially Seoul, to show visualized data so that they would know how Seoul is in a simple way.",
         "images": [
@@ -64,6 +64,43 @@
           {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Yoon Nextron (Sole)",
+        "startDate": "11/2021 - 12/2021",
+        "description": "This project is the Nextron.js (Electron.js + Next.js) project based on TypeScript. It's a desktop chat software using Firebase. I am currently working on this project!",
+        "images": [
+          "images/portfolio/yoon-nextron/main.jpg",
+          "images/portfolio/yoon-nextron/signup.jpg",
+          "images/portfolio/yoon-nextron/chat.jpg"
+        ],
+        "url": "https://github.com/yoondev83/YoonNextron",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "Material-ui"
+          },
+          {
+            "class": "devicon-nextjs-original",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-electron-original",
+            "name": "Electron.js"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
           }
         ]
       }
