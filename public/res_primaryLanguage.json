@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi! I'm Yoonsuk Chang",
-      "description": "Hello, there 🖐 I am from South Korea. I once took Cybercrime and Cyber Investigation for my graduate school and found the IT field fasinating. I wanted to know about this field more and just bought a book for Java programming. Until then I quite didn't know how to express my thoughts logically and systematically. Programming not only enables me to code my thoughts but also helps me grow. I am interested in front-end now because it is where I can visualize my thoughts. For those who are reading this message, I hope that we would work together in the near future! :) If you are interested in me, please email me (yoondev83@gmail.com) or check below!",
+      "description": "Hello, there 🖐 I am from South Korea. I took Cybercrime and Cyber Investigation classes in graduate school and found the IT field fasinating. I decided to know about this field more and just bought a book for Java programming. Before starting programming I quite didn't know how to express my thoughts logically and systematically. Programming not only enables me to code my thoughts but also helps me grow. I am interested in front-end now because it is where I can visualize my thoughts. For those who are reading this message, I hope that we would work together in the near future! :) If you are interested in me, check below and contact me (yoondev83@gmail.com)!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -10,63 +10,6 @@
       }
     },
     "projects": [
-      {
-        "title": "Seoul Crime Map (Solo)",
-        "startDate": "08/2021 - 10/2021",
-        "description": "React and React Material-ui are used for the front-end part, and Node.js, Express.js, Mongoose are used for the back-end part. This project is for non-Koreans who are not familiar with South Korea, especially Seoul, to show visualized data so that they would know how Seoul is in a simple way.",
-        "images": [
-          "images/portfolio/seoul-crime-map/p1.jpg",
-          "images/portfolio/seoul-crime-map/main.png",
-          "images/portfolio/seoul-crime-map/datamap.png"
-        ],
-        "url": "https://github.com/yoondev83/YoonSeoulCrimeFront",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-materialui-plain",
-            "name": "Material-ui"
-          },
-          {
-            "name": "React-Chart-js"
-          },
-          {
-            "name": "Leaflet"
-          }
-        ]
-      },
-      {
-        "title": "REBORN (Team)",
-        "startDate": "08/2021 - 10/2021",
-        "description": "I participated in this project as a front-end developer using React, Redux, React Material-ui, and Bootstrap. It's a blockchain-based project for a used-golf-equipment online shopping mall where you can buy or sell used golf stuff with tokens. When users sell their stuff to REBORN, they receive REBORN tokens as reward, which they can also use for buying on REBORN.",
-        "images": [
-          "images/portfolio/reborn/p1.jpg",
-          "images/portfolio/reborn/p2.PNG",
-          "images/portfolio/reborn/p3.PNG",
-          "images/portfolio/reborn/p4.PNG",
-          "images/portfolio/reborn/p5.PNG",
-          "images/portfolio/reborn/p6.PNG",
-          "images/portfolio/reborn/p7.PNG",
-          "images/portfolio/reborn/p8.PNG"
-        ],
-        "url": "https://github.com/28-5/Front-end",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-materialui-plain",
-            "name": "Material-ui"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
-          }
-        ]
-      },
       {
         "title": "Yoon Nextron (Solo)",
         "startDate": "11/2021 - 12/2021",
@@ -103,7 +46,71 @@
             "name": "Firebase"
           }
         ]
+      },
+      {
+        "title": "REBORN (Team)",
+        "startDate": "08/2021 - 10/2021",
+        "description": "I participated in this project as a front-end developer using React, Redux, React Material-ui, and Bootstrap. It's a blockchain-based project for a used-golf-equipment online shopping mall where you can buy or sell used golf stuff with tokens. When users sell their stuff to REBORN, they receive REBORN tokens as reward, which they can also use for buying on REBORN.",
+        "images": [
+          "images/portfolio/reborn/p1.jpg",
+          "images/portfolio/reborn/p2.PNG",
+          "images/portfolio/reborn/p3.PNG",
+          "images/portfolio/reborn/p4.PNG",
+          "images/portfolio/reborn/p5.PNG",
+          "images/portfolio/reborn/p6.PNG",
+          "images/portfolio/reborn/p7.PNG",
+          "images/portfolio/reborn/p8.PNG"
+        ],
+        "url": "https://github.com/28-5/Front-end",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "Material-ui"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Seoul Crime Map (Solo)",
+        "startDate": "08/2021 - 10/2021",
+        "description": "React and React Material-ui are used for the front-end part, and Node.js, Express.js, Mongoose are used for the back-end part. This project is for non-Koreans who are not familiar with South Korea, especially Seoul, to show visualized data so that they would know how Seoul is in a simple way.",
+        "images": [
+          "images/portfolio/seoul-crime-map/main.webp",
+          "images/portfolio/seoul-crime-map/image1.png",
+          "images/portfolio/seoul-crime-map/image2.png",
+          "images/portfolio/seoul-crime-map/image3.png",
+          "images/portfolio/seoul-crime-map/image4.png"
+        ],
+        "url": "https://github.com/yoondev83/YoonSeoulCrimeFront",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "Material-ui"
+          },
+          {
+            "name": "React-Chart-js"
+          },
+          {
+            "name": "Leaflet"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
       }
+      
     ],
     "experience": [
       {
@@ -116,7 +123,8 @@
         "technologies": [
           "Java",
           "Javascript",
-          "Project Management"
+          "Project Management",
+          "Internet Security"
         ]
       },
       {
@@ -128,6 +136,7 @@
         ],
         "technologies": [
           "Java",
+          "MySQL",
           "Docker",
           "Solidity",
           "Ethereum"

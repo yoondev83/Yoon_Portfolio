@@ -11,15 +11,15 @@
     },
     "projects": [
       {
-        "title": "Seoul Crime Map (개인)",
-        "startDate": "2021-08 - 2021-10",
-        "description": "React와 React Material-ui를 활용하여 프론트 구현, Node.js, Express.js, Mongoose를 활용하여 백엔드를 구현하였습니다. 데이터 시각화를 위해서 Leaflet.js과 Chart.js를 활용하였습니다. 이 프로젝트는 서울에 대해 잘 모르는 외국인들에게 서울은 얼마나 안전한가에 관해 객관적이고 시각화된 데이터를 간단하게 확인할 수 있는 서비스를 제공하기위해 만들었습니다. 데이터는 가입없이 확인할 수 있게 하였고, 회원가입 및 로그인을 통해 간단한 게시글을 남길 수 있는 게시판을 구현하였습니다.",
+        "title": "Yoon Nextron (개인)",
+        "startDate": "2021-11 - 2021-12",
+        "description": "Nextron.js (Electron.js + Next.js)과 TypeScript를 바탕으로 한 데스크탑 웹 채팅 소프트웨어 입니다. DB는 Firebase를 사용하였습니다. 지속적으로 구현하지 못한 부분들은 업데이트를 통해서 개선해 가도록 하겠습니다!",
         "images": [
-          "images/portfolio/seoul-crime-map/p1.jpg",
-          "images/portfolio/seoul-crime-map/main.png",
-          "images/portfolio/seoul-crime-map/datamap.png"
+          "images/portfolio/yoon-nextron/main.jpg",
+          "images/portfolio/yoon-nextron/signup.jpg",
+          "images/portfolio/yoon-nextron/chat.jpg"
         ],
-        "url": "https://github.com/yoondev83/YoonSeoulCrimeFront",
+        "url": "https://github.com/yoondev83/YoonNextron",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -30,10 +30,20 @@
             "name": "Material-ui"
           },
           {
-            "name": "React-Chart-js"
+            "class": "devicon-nextjs-original",
+            "name": "Next.js"
           },
           {
-            "name": "Leaflet"
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-electron-original",
+            "name": "Electron.js"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
           }
         ]
       },
@@ -68,15 +78,17 @@
         ]
       },
       {
-        "title": "Yoon Nextron (개인)",
-        "startDate": "2021-11 - 2021-12",
-        "description": "Nextron.js (Electron.js + Next.js)과 TypeScript를 바탕으로 한 데스크탑 웹 채팅 소프트웨어 입니다. DB는 Firebase를 사용하였습니다. 지속적으로 구현하지 못한 부분들은 업데이트를 통해서 개선해 가도록 하겠습니다!",
+        "title": "Seoul Crime Map (개인)",
+        "startDate": "2021-08 - 2021-10",
+        "description": "React와 React Material-ui를 활용하여 프론트 구현, Node.js, Express.js, Mongoose를 활용하여 백엔드를 구현하였습니다. 데이터 시각화를 위해서 Leaflet.js과 Chart.js를 활용하였습니다. 이 프로젝트는 서울에 대해 잘 모르는 외국인들에게 서울은 얼마나 안전한가에 관해 객관적이고 시각화된 데이터를 간단하게 확인할 수 있는 서비스를 제공하기위해 만들었습니다. 데이터는 가입없이 확인할 수 있게 하였고, 회원가입 및 로그인을 통해 간단한 게시글을 남길 수 있는 게시판을 구현하였습니다.",
         "images": [
-          "images/portfolio/yoon-nextron/main.jpg",
-          "images/portfolio/yoon-nextron/signup.jpg",
-          "images/portfolio/yoon-nextron/chat.jpg"
+          "images/portfolio/seoul-crime-map/main.webp",
+          "images/portfolio/seoul-crime-map/image1.png",
+          "images/portfolio/seoul-crime-map/image2.png",
+          "images/portfolio/seoul-crime-map/image3.png",
+          "images/portfolio/seoul-crime-map/image4.png"
         ],
-        "url": "https://github.com/yoondev83/YoonNextron",
+        "url": "https://github.com/yoondev83/YoonSeoulCrimeFront",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -87,20 +99,14 @@
             "name": "Material-ui"
           },
           {
-            "class": "devicon-nextjs-original",
-            "name": "Next.js"
+            "name": "React-Chart-js"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "Leaflet"
           },
           {
-            "class": "devicon-electron-original",
-            "name": "Electron.js"
-          },
-          {
-            "class": "devicon-firebase-plain",
-            "name": "Firebase"
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       }
